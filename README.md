@@ -17,7 +17,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/gustavoprimolan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/gustavoprimolan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/gustavoprimolan" target="_blank"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/gustavoprimolan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<img src="https://komarev.com/ghpvc/?username=gustavoprimolan" alt="gustavoprimolan" />
 </p>
