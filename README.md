@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Banco Inter]
 - 💻 You can find my projects at [gustavoprimolan.github.io](https://gustavoprimolan.github.io)
-- 📫 How to reach me **gustavoprimolan@outlook.com**
+- 📫 How to reach me **gustavoprimolan@hotmail.com**
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
