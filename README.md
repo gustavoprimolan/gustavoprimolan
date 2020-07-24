@@ -11,6 +11,11 @@
 - 💻 You can find my projects at [gustavoprimolan.github.io](https://gustavoprimolan.github.io)
 - 📫 How to reach me **gustavoprimolan@outlook.com**
 
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gustavoprimolan&show_icons=true&hide_border=true)
+
+
 <p align="center">
 	<a href="https://github.com/gustavoprimolan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/gustavoprimolan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
