@@ -1,7 +1,11 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+
 <h1 align="center">Hi there 👋, I'm Gustavo Primolan</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" width="32" height="32"/>
+	<i class="devicon-java-plain-wordmark colored" width="32" height="32"></i>
+	<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" />
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="32" height="32"/> 
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="32" height="32"/>
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="32" height="32"/>
