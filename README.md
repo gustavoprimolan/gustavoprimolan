@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Gustavo Primolan</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working at [Banco Inter](https://www.bancointer.com.br/)
+- 🔭 I’m currently working at [Bitso](https://bitso.com/)
 - 💻 You can find my projects at [gustavoprimolan.github.io](https://gustavoprimolan.github.io)
 - 📫 How to reach me **gustavoprimolan@hotmail.com**
 
