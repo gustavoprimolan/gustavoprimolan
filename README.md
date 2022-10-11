@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Bitso](https://bitso.com/)
 - 💻 You can find my projects at [gustavoprimolan.github.io](https://gustavoprimolan.github.io)
-- 📫 How to reach me **gustavoprimolan@hotmail.com**
+- 📫 How to reach me **gustavo.primolan@hotmail.com**
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
